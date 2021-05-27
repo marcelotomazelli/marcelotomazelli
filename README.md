@@ -4,7 +4,7 @@ Olá sou Marcelo Tomazelli, sou estudante de Desenvolvimento Web Full Stack, ten
 
 * Meu foco maior no momento é o aprendizado 🚀
 * Desejo ser um excelente desenvolvedor ⭐
-* Atualmente estudando e adquirendo conhecimento 💻
+* Atualmente estudando e adquirindo conhecimento 💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcelotomazelli-0a66c2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelotomazelli)](https://www.linkedin.com/in/marcelotomazelli)
 [![Gmail Badge](https://img.shields.io/badge/-marctomazelli@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white&link=mailto:marctomazelli@gmail.com)](mailto:marctomazelli@gmail.com)
